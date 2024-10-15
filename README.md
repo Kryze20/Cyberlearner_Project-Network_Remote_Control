@@ -5,3 +5,5 @@ Creating automation that would allow user to run script from their local devices
 Attached word doc shows the intended actions of the script.
 
 Bash NR.sh to run script.
+
+Do note that you have to provide a remote server on your own. I was given a template Ubuntu to work o the project.
